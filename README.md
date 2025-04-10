@@ -5,8 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ------------------------
 
 
-*👾 I just do whatever i like
-*💻 Make your brain the compiler
+* 👾 I just do whatever i like
+* 💻 Make your brain the compiler
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://test.com)
 * ✉️  You can contact me at [nmrupam@proton.me](mailto:nmrupam@proton.me)
