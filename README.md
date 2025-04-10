@@ -1,11 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rupam Ghosh
 ===================================================================================================================================
 
-Full stack web developer
+
 ------------------------
 
-Hi
 
+*👾 I just do whatever i like
+*💻 Make your brain the compiler
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://test.com)
 * ✉️  You can contact me at [nmrupam@proton.me](mailto:nmrupam@proton.me)
@@ -44,6 +45,10 @@ src="https://img.shields.io/twitter/follow/mrpom?logo=twitter&style=for-the-badg
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/mrpom/test" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpom&repo=test&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+### 🧠 Philosophy
+> "He who has a why to code can bear almost any how." 
+
 
 ### Support Me
 
